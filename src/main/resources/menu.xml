@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-2" standalone="yes"?>
+<menuItem name="Oferta">
+     <book name="Dane firmy">
+        <path>Info</path>
+    </book>
+    <book name="Oferta">
+        <path>Offer</path>
+    </book>
+    <book name="Personel">
+        <path>Staff</path>
+    </book>
+    <book name="Godziny otwarcia">
+        <path>Hours</path>
+    </book>
+    <book name="Kontakt">
+        <path>Contact</path>
+    </book>
+</menuItem>
